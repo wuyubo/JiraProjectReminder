@@ -1,0 +1,2 @@
+# JiraProjectReminder
+基于python qt开发的，可发送Jira的项目数据到企业微信的定时提醒器
